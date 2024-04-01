@@ -2,18 +2,18 @@
 
 ## About this Notebook
 
-This is my analysis of the [Palmer Penguins dataset] (https://allisonhorst.github.io/palmerpenguins/) as part of the assessment for the Principles of Data Analytics module.
+This is my analysis of the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) as part of the assessment for the Principles of Data Analytics module.
 
 This notebook demonstrates some key data analytics techniques:
 
-- I outline how I import the Palmer Penguins dataset and as well as importing various Python libraries that are used to explore the data.
+- I outline how I import the Palmer Penguins dataset as well as various Python libraries that are used to explore the data.
 
 - The notebook provides an overview of the data and includes a barchart and histogram of two of the variables in the dataset.
 
-- I also compare two variables form the Penguins dataset (flipper length and body mass), utilising a scatterplot and correlation coefficient to guage how correlated the two variables are.
+- I compare two variables form the Penguins dataset (flipper length and body mass), utilising a scatterplot and correlation coefficient to guage how correlated the two variables are.
 
 ## Get Started
-I used Anaconda in Visual Studio Code to create and write this Jupyter Notebook and recommend you download and use the same to view the work. 
+I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write this [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) and recommend you download and use the same to view the work. 
 
 ## Get Help
 Please feel free to log any issues you spot on the Git repository page or to email me with any queries (my student email is included below).
