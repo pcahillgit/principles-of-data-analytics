@@ -8,7 +8,7 @@ This notebook demonstrates some key data analytics techniques:
 
 - I outline how I import the Palmer Penguins dataset as well as various Python libraries that are used to explore the data.
 
-- The notebook provides an overview of the data and includes a barchart and histogram of two of the variables in the dataset.
+- The notebook provides an overview of the types of data held within the dataset and includes some visualisations (a barchart and histogram) of two of those variables.
 
 - I compare two variables form the Penguins dataset (flipper length and body mass), utilising a scatterplot and correlation coefficient to guage how correlated the two variables are.
 
