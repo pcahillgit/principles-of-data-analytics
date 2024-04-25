@@ -10,7 +10,7 @@ This notebook demonstrates some key data analytics techniques:
 
 - The notebook provides an overview of the types of data held within the dataset and includes some visualisations (a barchart and histogram) of two of those variables.
 
-- I compare two variables form the Penguins dataset (flipper length and body mass), utilising a scatterplot and correlation coefficient to guage how correlated the two variables are.
+- I compare two variables from the Penguins dataset (flipper length and body mass), utilising a scatterplot and correlation coefficient to guage how strongly associated the two variables are to eachother.
 
 ## Get Started 🐧🚲
 I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write this [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) and recommend you download and use the same to view the work.
